@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\DouYuDemo\DouYuDemo\bin\Debug\DouYuDemo.exe.config
+C:\Users\Administrator\source\repos\DouYuDemo\DouYuDemo\bin\Debug\DouYuDemo.exe
+C:\Users\Administrator\source\repos\DouYuDemo\DouYuDemo\bin\Debug\DouYuDemo.pdb
+C:\Users\Administrator\source\repos\DouYuDemo\DouYuDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\DouYuDemo\DouYuDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\DouYuDemo\DouYuDemo\obj\Debug\DouYuDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\DouYuDemo\DouYuDemo\obj\Debug\DouYuDemo.FrmMain.resources
+C:\Users\Administrator\source\repos\DouYuDemo\DouYuDemo\obj\Debug\DouYuDemo.Properties.Resources.resources
+C:\Users\Administrator\source\repos\DouYuDemo\DouYuDemo\obj\Debug\DouYuDemo.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\DouYuDemo\DouYuDemo\obj\Debug\DouYuDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DouYuDemo\DouYuDemo\obj\Debug\DouYuDemo.csproj.CopyComplete
+C:\Users\Administrator\source\repos\DouYuDemo\DouYuDemo\obj\Debug\DouYuDemo.exe
+C:\Users\Administrator\source\repos\DouYuDemo\DouYuDemo\obj\Debug\DouYuDemo.pdb
+C:\Users\Administrator\source\repos\DouYuDemo\DouYuDemo\obj\Debug\DouYuDemo.FrmRoom.resources
+C:\Users\Administrator\source\repos\DouYuDemo\DouYuDemo\obj\Debug\DouYuDemo.FrmGame.resources
+C:\Users\Administrator\source\repos\DouYuDemo\DouYuDemo\obj\Debug\DouYuDemo.FrmLive.resources
